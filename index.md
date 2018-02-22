@@ -1,13 +1,7 @@
-# Welcome to Jekyll!
+# portifólio!
 
-# Website settings
-title: Jalpc
-description: Jack's blog,use Jekyll and github pages.
-keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
-baseurl:  /Jalpc # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://jarrekk.github.io/Jalpc  # url should be 'http://<github_username>.github.io/homepage' as before
-# url: http://127.0.0.1:4000
-img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+# Quem sou eu?
+Meu nome é Karine. sou estudante do instituto federal de educação ciencia e tecnologia do Rio grande do Norte(Ifrn), Estou no 3° ano do curso de programação de jogos digitais.
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.

@@ -1,11 +1,12 @@
 
- Portifólio
-description: Quem sou? Meu nome é Karine. sou estudante do instituto federal de educação ciencia e tecnologia do Rio grande do Norte(Ifrn), Estou no 3° ano do curso de programação de jogos digitais.
+##Portifólio
 
-# author -- index page "about me" section
-author:  # change following line to your infomation.
-  name: karine Melo  # Be used at blog posts' author.
-  email: karinemelo843@live.com  # Leave blank if you don't have now
+## Quem sou? 
+
+Meu nome é Karine. sou estudante do instituto federal de educação ciencia e tecnologia do Rio grande do Norte(Ifrn), Estou no 3° ano do curso de programação de jogos digitais.
+
+name: karine Melo  # Be used at blog posts' author.
+email: karinemelo843@live.com  # Leave blank if you don't have now
 
 ## Games
 Games:

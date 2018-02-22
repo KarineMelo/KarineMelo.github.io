@@ -1,7 +1,5 @@
-# Portifólio!
 
-# Website settings
-title: Portifólio
+ Portifólio
 description: Quem sou? Meu nome é Karine. sou estudante do instituto federal de educação ciencia e tecnologia do Rio grande do Norte(Ifrn), Estou no 3° ano do curso de programação de jogos digitais.
 
 # author -- index page "about me" section
@@ -9,31 +7,13 @@ author:  # change following line to your infomation.
   name: karine Melo  # Be used at blog posts' author.
   email: karinemelo843@live.com  # Leave blank if you don't have now
 
-## google optimize
-go:
-  # id:
+## Games
+Games:
 
-## growingIO
-gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
-  # id:
+## Artes
+Artes:  
+  
 
-## donation
-donation: on  # type 'on'/'off' to choice display donation button at post page or not
+## Eventos
+Eventos: on  # type 'on'/'off' to choice display donation button at post page or not
 
-## carousels
-index_carousel: on  # index page carousel switch
-blog_carousel: on  # blog page carousel switch
-
-# scss
-sass:
-  style: compressed
-
-# Build settings
-encoding: utf-8
-
-# other settingsk
-highlighter: rouge
-markdown: kramdown
-kramdown:
-  input: GF
-  syntax_highlighter: rouge

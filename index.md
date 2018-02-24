@@ -1,4 +1,4 @@
-## Portifólio  
+# Portifólio  
  
 ## Quem sou? 
 
@@ -11,7 +11,7 @@ Contato: karinemelo843@live.com
 ![](lovecode.png)
 
 [Capacete Branco](https://zevictor.github.io/CapWhite/)
-![](capacete branco (1).png)
+![](capacetebranco.png)
 
 [MicroGuerra](https://zevictor.github.io/MicroGuerra/)
 ![](microguerra.png)

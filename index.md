@@ -19,6 +19,10 @@ Contato: karinemelo843@live.com
 [MockUp](https://zevictor.github.io/Mockup/)
 ![](mockup.png)
   
+## Artes
+
+![](arte.png)
+  
 ## Eventos
 
 * Secitex 2015 - Campus Santa Cruz

@@ -7,10 +7,23 @@ Meu nome é Karine. Sou estudante do **Instituto Federal de Educação, Ciência
 Contato: karinemelo843@live.com  
 
 ## Games:
-[https://zevictor.github.io/Love&Code/] 
+[Love & Code](https://zevictor.github.io/Love&Code/)
+![](lovecode.png)
+
+[Capacete Branco](https://zevictor.github.io/CapWhite/)
+![](capacete branco(1).png)
+
+[MicroGuerra](https://zevictor.github.io/MicroGuerra/)
+![](microguerra.png)
+
+[MockUp](https://zevictor.github.io/Mockup/)
+![](mockup.png)
 
 ## Artes:
 Artes:  
   
-## Even
+## Eventos
 
+* Secitex 2015 - Campus Santa Cruz
+
+* Secitex 2016 - Campus Parnamirim

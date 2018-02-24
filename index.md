@@ -2,11 +2,9 @@
  
 ## Quem sou? 
 
-Meu nome é Karine. sou estudante do instituto federal de educação ciencia e tecnologia do Rio grande do Norte(Ifrn), Estou no 3° ano do curso de programação de jogos digitais.
+Meu nome é Karine. Sou estudante do **Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte** (IFRN), Estou no 3° ano do curso de Programação de Jogos Digitais.
 
-name: karine Melo  
-idade: 17  
-email: karinemelo843@live.com  
+Contato: karinemelo843@live.com  
 
 ## Games:
 Games:

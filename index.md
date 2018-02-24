@@ -11,16 +11,13 @@ Contato: karinemelo843@live.com
 ![](lovecode.png)
 
 [Capacete Branco](https://zevictor.github.io/CapWhite/)
-![](capacete branco(1).png)
+![](capacete branco (1).png)
 
 [MicroGuerra](https://zevictor.github.io/MicroGuerra/)
 ![](microguerra.png)
 
 [MockUp](https://zevictor.github.io/Mockup/)
 ![](mockup.png)
-
-## Artes:
-Artes:  
   
 ## Eventos
 

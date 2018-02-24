@@ -1,4 +1,4 @@
-# Portifólio  
+ # Portifólio  
  
 ## Quem sou? 
 
@@ -14,7 +14,7 @@ Contato: karinemelo843@live.com
 ![](capacetebranco.png)
 
 [MicroGuerra](https://zevictor.github.io/MicroGuerra/)
-![](microguerra.png)
+![](micro guerra.png)
 
 [MockUp](https://zevictor.github.io/Mockup/)
 ![](mockup.png)
